@@ -1,0 +1,23 @@
+D:\C Sharp coding\cSharp project\cSharp project\bin\Debug\net8.0-windows\cSharp project.exe
+D:\C Sharp coding\cSharp project\cSharp project\bin\Debug\net8.0-windows\cSharp project.deps.json
+D:\C Sharp coding\cSharp project\cSharp project\bin\Debug\net8.0-windows\cSharp project.runtimeconfig.json
+D:\C Sharp coding\cSharp project\cSharp project\bin\Debug\net8.0-windows\cSharp project.dll
+D:\C Sharp coding\cSharp project\cSharp project\bin\Debug\net8.0-windows\cSharp project.pdb
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Properties.Resources.resources
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp project.csproj.GenerateResource.cache
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp project.AssemblyInfoInputs.cache
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp project.AssemblyInfo.cs
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp project.csproj.CoreCompileInputs.cache
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp project.dll
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\refint\cSharp project.dll
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp project.pdb
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp project.genruntimeconfig.cache
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\ref\cSharp project.dll
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.AdminPortal.resources
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Dashboard.resources
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Customers.resources
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.addProduct.resources
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.addCashier.resources
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.LogIn.resources
+D:\C Sharp coding\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.SignUp.resources

@@ -1,0 +1,95 @@
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.exe
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.deps.json
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.runtimeconfig.json
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.dll
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.pdb
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.addCashier.resources
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.addProduct.resources
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.AdminPortal.resources
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Customers.resources
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Dashboard.resources
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.LogIn.resources
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Properties.Resources.resources
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.SignUp.resources
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.csproj.GenerateResource.cache
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.AssemblyInfoInputs.cache
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.AssemblyInfo.cs
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.csproj.CoreCompileInputs.cache
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.dll
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\refint\BakeryFinal.dll
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.pdb
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.genruntimeconfig.cache
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\ref\BakeryFinal.dll
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.csproj.AssemblyReference.cache
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\zephrox\Desktop\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFi.F39678FC.Up2Date
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.exe
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.dll
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.addCashier.resources
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.addProduct.resources
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.AdminPortal.resources
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Customers.resources
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Dashboard.resources
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.LogIn.resources
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Orders.resources
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Properties.Resources.resources
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.SignUp.resources
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.AssemblyInfo.cs
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFi.F39678FC.Up2Date
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.dll
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\refint\BakeryFinal.dll
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.pdb
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.deps.json
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.runtimeconfig.json
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.pdb
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.genruntimeconfig.cache
+C:\Users\User\Desktop\DONOFTHISUP\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\ref\BakeryFinal.dll
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.exe
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.deps.json
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.runtimeconfig.json
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.dll
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\BakeryFinal.pdb
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.addCashier.resources
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.addProduct.resources
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.AdminPortal.resources
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Customers.resources
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Dashboard.resources
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.LogIn.resources
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Orders.resources
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.Properties.Resources.resources
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\cSharp_project.SignUp.resources
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.AssemblyInfo.cs
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFi.F39678FC.Up2Date
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.dll
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\refint\BakeryFinal.dll
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.pdb
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\BakeryFinal.genruntimeconfig.cache
+C:\Users\User\Desktop\FINAL PROJECT\DONOFTHISUP\cSharp project\cSharp project\obj\Debug\net8.0-windows\ref\BakeryFinal.dll
